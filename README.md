@@ -1,4 +1,4 @@
-# Hi there, I'm Samuel 👋
+# Hi there, I'm Samuel 👋 (AmCodeSmith)
 
 Welcome to my GitHub profile! I'm a passionate developer excited about building innovative solutions and collaborating on open-source projects.
 
