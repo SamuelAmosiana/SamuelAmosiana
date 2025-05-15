@@ -93,7 +93,7 @@ I’m always open to working with passionate developers on:
 ---
 
 ## 🌐 Connect with Me
-[![LinkedIn](https://www.linkedin.com/in/samuel-sianamate-b5b900257/)  
+[![LinkedIn]((https://www.linkedin.com/in/samuel-sianamate-b5b900257/)) 
 [![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamuelAmosiana)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://yourportfolio.com)
 
