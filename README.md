@@ -88,7 +88,7 @@ I’m always open to working with passionate developers on:
 
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sianamate-b5b900257/)  
-[![Twitter](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamuelAmosiana)  
+[![Face Book](https://img.shields.io/badge/-Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/SamuelAmosiana)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://samuelamosiana.github.io/projec-sam/#achievements)
 
 > ⚡ *“Code isn’t just my craft — it’s how I think, solve, and serve.”*
