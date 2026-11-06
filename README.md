@@ -1,6 +1,6 @@
 # <img src="https://api.iconify.design/lucide/hand.svg?color=%2358a6ff&width=30" width="30" height="30" alt=""> Hi there, I'm **Samuel** — `AmCodeSmith`
 
-<img src="https://api.iconify.design/lucide/target.svg?color=%2358a6ff&width=18" width="18" height="18" alt=""> Passionate developer. Cybersecurity enthusiast. DevOps explorer.  
+<img src="https://api.iconify.design/lucide/target.svg?color=%2358a6ff&width=18" width="18" height="18" alt=""> Systems Developer. DevOps Engineer. Technical Mentor.  
 <img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff&width=18" width="18" height="18" alt=""> I build solutions, automate workflows, and break limits in code.
 
 ---
