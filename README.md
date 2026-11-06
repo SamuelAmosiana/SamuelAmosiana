@@ -1,14 +1,13 @@
+# <img src="https://api.iconify.design/lucide/hand.svg?color=%2358a6ff&width=30" width="30" height="30" alt=""> Hi there, I'm **Samuel** — `AmCodeSmith`
 
-# 👋 Hi there, I'm **Samuel** — `AmCodeSmith`
-
-🎯 Passionate developer. Cybersecurity enthusiast. DevOps explorer.  
-🚀 I build solutions, automate workflows, and break limits in code.
+<img src="https://api.iconify.design/lucide/target.svg?color=%2358a6ff&width=18" width="18" height="18" alt=""> Passionate developer. Cybersecurity enthusiast. DevOps explorer.  
+<img src="https://api.iconify.design/lucide/rocket.svg?color=%2358a6ff&width=18" width="18" height="18" alt=""> I build solutions, automate workflows, and break limits in code.
 
 ---
 
-## 🛠️ Tech Stack
+## <img src="https://api.iconify.design/lucide/layers.svg?color=%2358a6ff&width=24" width="24" height="24" alt=""> Tech Stack
 
-### 💻 **Languages**
+### <img src="https://api.iconify.design/lucide/code-xml.svg?color=%2358a6ff&width=20" width="20" height="20" alt=""> **Languages**
 ![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Java](https://img.shields.io/badge/-Java-007396?style=for-the-badge&logo=java&logoColor=white)
@@ -20,7 +19,7 @@
 
 ---
 
-### 🌐 **Frontend**
+### <img src="https://api.iconify.design/lucide/layout-template.svg?color=%2358a6ff&width=20" width="20" height="20" alt=""> **Frontend**
 ![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
 ![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
 ![Angular](https://img.shields.io/badge/-Angular-DD0031?style=for-the-badge&logo=angular&logoColor=white)
@@ -32,7 +31,7 @@
 
 ---
 
-### 🖥️ **Backend**
+### <img src="https://api.iconify.design/lucide/server.svg?color=%2358a6ff&width=20" width="20" height="20" alt=""> **Backend**
 ![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
 ![Express](https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white)
 ![Django](https://img.shields.io/badge/-Django-092E20?style=for-the-badge&logo=django&logoColor=white)
@@ -44,7 +43,7 @@
 
 ---
 
-### 🗄️ **Databases**
+### <img src="https://api.iconify.design/lucide/database.svg?color=%2358a6ff&width=20" width="20" height="20" alt=""> **Databases**
 ![MySQL](https://img.shields.io/badge/-MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
@@ -53,7 +52,7 @@
 
 ---
 
-### ⚙️ **DevOps & Cloud**
+### <img src="https://api.iconify.design/lucide/cloud-cog.svg?color=%2358a6ff&width=20" width="20" height="20" alt=""> **DevOps & Cloud**
 ![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/-GitHub%20Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
@@ -63,7 +62,7 @@
 
 ---
 
-### 🔧 **Tools**
+### <img src="https://api.iconify.design/lucide/wrench.svg?color=%2358a6ff&width=20" width="20" height="20" alt=""> **Tools**
 ![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
@@ -73,14 +72,14 @@
 
 ---
 
-## 🌱 Currently Exploring
+## <img src="https://api.iconify.design/lucide/compass.svg?color=%2358a6ff&width=24" width="24" height="24" alt=""> Currently Exploring
 - ![Rust](https://img.shields.io/badge/-Rust-000000?style=for-the-badge&logo=rust&logoColor=white)
 - AI & Machine Learning with TensorFlow
 - Cybersecurity, CTF challenges, & Pentesting
 
 ---
 
-## 🤝 Let's Collaborate
+## <img src="https://api.iconify.design/lucide/handshake.svg?color=%2358a6ff&width=24" width="24" height="24" alt=""> Let's Collaborate
 I’m always open to working with passionate developers on:
 - Web apps, secure backends, or open-source tools
 - DevOps automation or system design
@@ -88,11 +87,11 @@ I’m always open to working with passionate developers on:
 
 ---
 
-## 📊 GitHub Stats
+## <img src="https://api.iconify.design/lucide/chart-column.svg?color=%2358a6ff&width=24" width="24" height="24" alt=""> GitHub Stats
 
-## 🌐 Connect with Me
+## <img src="https://api.iconify.design/lucide/share-2.svg?color=%2358a6ff&width=24" width="24" height="24" alt=""> Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sianamate-b5b900257/)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/samuel.sianamate.75)  
 [![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.samuelsianamate.com)
 
-> ⚡ *“Code isn’t just my craft, it’s how I think, solve, and serve. I build Things That matter”*
+> <img src="https://api.iconify.design/lucide/zap.svg?color=%2358a6ff&width=16" width="16" height="16" alt=""> *“Code isn’t just my craft, it’s how I think, solve, and serve. I build Things That matter”*
