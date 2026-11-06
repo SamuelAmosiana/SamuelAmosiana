@@ -93,6 +93,6 @@ I’m always open to working with passionate developers on:
 ## 🌐 Connect with Me
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/samuel-sianamate-b5b900257/)  
 [![Facebook](https://img.shields.io/badge/-Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://web.facebook.com/samuel.sianamate.75)  
-[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://samuelamosiana.github.io/projec-sam/#achievements)
+[![Portfolio](https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white)](https://www.samuelsianamate.com)
 
-> ⚡ *“Code isn’t just my craft — it’s how I think, solve, and serve.”*
+> ⚡ *“Code isn’t just my craft, it’s how I think, solve, and serve. I build Things That matter”*
